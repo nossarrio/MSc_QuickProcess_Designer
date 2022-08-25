@@ -1,0 +1,16 @@
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\bin\Debug\net6.0\DependencyFiles\application.json
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\bin\Debug\net6.0\QuickProcess_Designer.deps.json
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\bin\Debug\net6.0\QuickProcess_Designer.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\bin\Debug\net6.0\QuickProcess_Designer.pdb
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\bin\Debug\net6.0\QuickProcess_Core.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\bin\Debug\net6.0\QuickProcess_Core.pdb
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.csproj.AssemblyReference.cache
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.AssemblyInfoInputs.cache
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.AssemblyInfo.cs
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.csproj.CoreCompileInputs.cache
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.csproj.CopyComplete
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\refint\QuickProcess_Designer.dll
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\QuickProcess_Designer.pdb
+C:\Users\Nosa.Amadasun\source\repos\QuickProcess\EcoBreeze\Client\QuickProcess_Designer\obj\Debug\net6.0\ref\QuickProcess_Designer.dll
